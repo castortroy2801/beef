@@ -1,8 +1,18 @@
-beef.db
-test/msf-test
-custom-config.yaml
-.DS_Store
-.gitignore
-.rvmrc
+*.gem
+*.rbc
+.bundle
+.config
+coverage
+InstalledFiles
+lib/bundler/man
+pkg
+rdoc
+spec/reports
+test/tmp
+test/version_tmp
+tmp
 
-*.lock
+# YARD artifacts
+.yardoc
+_yardoc
+doc/
